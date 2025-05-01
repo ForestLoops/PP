@@ -1,3 +1,4 @@
+'''
 #1 matrix-matrix multiplication in parallel using OpenMP
 To run the file from terminal (eg filename = P1.cpp)
   -> check directory
@@ -35,4 +36,4 @@ Vertex   Distance from Source
 2        5
 3        9
 4        7
-
+'''
