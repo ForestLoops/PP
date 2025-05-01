@@ -3,7 +3,7 @@ To run the file from terminal (eg filename = P1.cpp)
   -> check directory
   -> **g++ -fopenmp P1.cpp -o P1**
   -> **./P1**
-
+  
 #3 breadth first search in parallel using OpenMP 
 Enter vertices and edges: 7 6
 Enter 6 edges (u v):
